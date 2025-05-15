@@ -6,6 +6,7 @@ We explicitly state that our solution does not describe any product and it is no
 
 ## License
 This repository and its contents are licensed under the Creative Commons Attribution-Noncommercial-NoDerivatives license 4.0 (CC BY-NC-ND 4.0).
+
 In case you wish to use our solution in a commercial environment please contact the Technology Transfer Office (TTO) of MUV: https://www.meduniwien.ac.at/technologietransfer
 
 Contact the corresponding author (Fabian Placzek, PhD, e-mail: fabian.placzek@meduniwien.ac.at) in case you are interested in research collaborations regarding the utilization of DEBI-NNs.
