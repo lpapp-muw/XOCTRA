@@ -5,6 +5,7 @@ Repository for the Xenograft OCT Radiomics Analysis project (MeduniWien)
 We explicitly state that our solution does not describe any product and it is not intended to be used in any real-life, especially not in clinical settings. This repository contains description and examples of a research tool for experimenting with OCT and radiomics. Therefore, the contents of this repository shall not be used either partly or fully for rendering clinical decisions or to be included in any product. We waive any liabilities for any damage caused by the executables.
 
 ## License
+This repository and its contents are licensed under the Creative Commons Attribution-Noncommercial-NoDerivatives license 4.0 (CC BY-NC-ND 4.0).
 In case you wish to use our solution in a commercial environment please contact the Technology Transfer Office (TTO) of MUV: https://www.meduniwien.ac.at/technologietransfer
 
 Contact the corresponding author (Fabian Placzek, PhD, e-mail: fabian.placzek@meduniwien.ac.at) in case you are interested in research collaborations regarding the utilization of DEBI-NNs.
