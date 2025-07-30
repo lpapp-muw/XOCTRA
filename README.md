@@ -9,7 +9,7 @@ This repository and its contents are licensed under the Creative Commons Attribu
 
 In case you wish to use our solution in a commercial environment please contact the Technology Transfer Office (TTO) of MUV: https://www.meduniwien.ac.at/technologietransfer
 
-Contact the corresponding author (Fabian Placzek, PhD, e-mail: fabian.placzek@meduniwien.ac.at) in case you are interested in research collaborations regarding the utilization of DEBI-NNs.
+Contact the corresponding author (Fabian Placzek, PhD, e-mail: fabian.placzek@meduniwien.ac.at) in case you are interested in research collaborations regarding the project.
 
 ## Access
 See below the Use Cases with accompanying data and source code descriptions we utilized for this study.
